@@ -1,0 +1,104 @@
+
+Starting model run at    2024-09-05 15:46:31.211384
+Descriptors:    atombd_mordred_atommordred_mfp_atommfp_rdfp_atomrdfp
+Models:    ['Random Forest']
+Model Numbers: 2345
+Descriptor bools:    [True, True, True, True, True, True, True]
+PCA NOT Used for Mordred/MorganFP/RDKitFP Data:    True
+Random seed used: 0
+Num processors to use: 10
+Raw Parser args: Namespace(descriptors=['atombd', 'mordred', 'atommordred', 'mfp', 'atommfp', 'rdfp', 'atomrdfp'], debug=None, seed=0, name=None, nprocs=10)
+~~~~~~~~	COPOLY ATOM AND BOND RUN	~~~~~~~~
+
+START Random Forest at 2024-09-05 15:46:31.219320
+DONE Random Forest at 2024-09-05 15:46:35.803702
+Run time: 0:00:04.584382
+	Random Forest Results:
+	  Score: 0.9412
+	  CV Average Score: 0.9262
+Best model is Random Forest with an accuracy of 0.9412
+FINISHED COPOLY ATOM AND BOND RUN
+
+~~~~~~~~	COPOLY MORDRED RUN	~~~~~~~~
+
+START Random Forest at 2024-09-05 15:46:35.818471
+DONE Random Forest at 2024-09-05 15:46:38.645629
+Run time: 0:00:02.827158
+	Random Forest Results:
+	  Score: 0.9412
+	  CV Average Score: 0.9212
+Best model is Random Forest with an accuracy of 0.9412
+FINISHED COPOLY MORDRED RUN
+
+~~~~~~~~	COPOLY MORGAN FP RUN	~~~~~~~~
+
+START Random Forest at 2024-09-05 15:46:38.666943
+DONE Random Forest at 2024-09-05 15:46:50.301848
+Run time: 0:00:11.634905
+	Random Forest Results:
+	  Score: 0.8824
+	  CV Average Score: 0.8170
+Best model is Random Forest with an accuracy of 0.8824
+FINISHED COPOLY MORGAN FP RUN
+
+~~~~~~~~	COPOLY RDKIT FP RUN	~~~~~~~~
+
+START Random Forest at 2024-09-05 15:46:50.749608
+DONE Random Forest at 2024-09-05 15:46:59.396761
+Run time: 0:00:08.647153
+	Random Forest Results:
+	  Score: 0.7500
+	  CV Average Score: 0.7729
+Best model is Random Forest with an accuracy of 0.7500
+FINISHED COPOLY RDKIT FP RUN
+
+~~~~~~~~	COPOLY ATOM + MORDRED RUN	~~~~~~~~
+
+START Random Forest at 2024-09-05 15:46:59.873693
+DONE Random Forest at 2024-09-05 15:47:00.719590
+Run time: 0:00:00.845897
+	Random Forest Results:
+	  Score: 0.9265
+	  CV Average Score: 0.9310
+Best model is Random Forest with an accuracy of 0.9265
+FINISHED COPOLY ATOM + MORDRED RUN
+
+~~~~~~~~	COPOLY ATOM + MORGAN FP RUN	~~~~~~~~
+
+START Random Forest at 2024-09-05 15:47:00.738368
+DONE Random Forest at 2024-09-05 15:47:09.441452
+Run time: 0:00:08.703084
+	Random Forest Results:
+	  Score: 0.8971
+	  CV Average Score: 0.8616
+Best model is Random Forest with an accuracy of 0.8971
+FINISHED COPOLY ATOM + MORGAN FP RUN
+
+~~~~~~~~	COPOLY ATOM + RD FP RUN	~~~~~~~~
+
+START Random Forest at 2024-09-05 15:47:09.888841
+DONE Random Forest at 2024-09-05 15:47:17.444300
+Run time: 0:00:07.555459
+	Random Forest Results:
+	  Score: 0.8824
+	  CV Average Score: 0.8417
+Best model is Random Forest with an accuracy of 0.8824
+FINISHED COPOLY ATOM + RD FP RUN
+
+Writing y train and test sets...
+Done writing y data.
+Copoly Atom and Bond
+	('Random Forest', 0.9411764705882353)
+Copoly Mordred
+	('Random Forest', 0.9411764705882353)
+Copoly Morgan FP
+	('Random Forest', 0.8823529411764706)
+Copoly RDKit FP
+	('Random Forest', 0.75)
+Copoly Atom + Mordred
+	('Random Forest', 0.9264705882352942)
+Copoly Atom + Morgan FP
+	('Random Forest', 0.8970588235294118)
+Copoly Atom + RD FP
+	('Random Forest', 0.8823529411764706)
+ALL ML RUNS FINISHED at 2024-09-05 15:47:17.918731

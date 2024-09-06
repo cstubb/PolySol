@@ -1,0 +1,51 @@
+,module,name,constructor,dim,description
+0,ABCIndex,ABC,ABCIndex (),2D,atom-bond connectivity index
+2,AcidBase,nAcid,AcidicGroupCount (),2D,acidic group count
+4,AdjacencyMatrix,SpAbs_A,AdjacencyMatrix (‘SpAbs’),2D,SpAbs of adjacency matrix
+16,Aromatic,nAromAtom,AromaticAtomsCount (),2D,aromatic atoms count
+18,AtomCount,nAtom,AtomCount (‘Atom’),2D,number of all atoms
+35,Autocorrelation,ATS0dv,"ATS (0, ‘dv’)",2D,moreau-broto autocorrelation of lag 0 weighted by valence electrons
+641,BCUT,BCUTc-1h,"BCUT (‘c’, 0)",2D,first heighest eigenvalue of Burden matrix weighted by gasteiger charge
+665,BalabanJ,BalabanJ,BalabanJ (),2D,Balaban’s J index
+666,BaryszMatrix,SpAbs_DzZ,"BaryszMatrix (‘Z’, ‘SpAbs’)",2D,graph energy from Barysz matrix weighted by atomic number
+770,BertzCT,BertzCT,BertzCT (),2D,Bertz CT
+771,BondCount,nBonds,"BondCount (‘any’, False)",2D,number of all bonds in non-kekulized structure
+780,CPSA,PNSA1,PNSA (1),3D,partial negative surface area (version 1)
+823,CarbonTypes,C1SP1,"CarbonTypes (1, 1)",2D,SP carbon bound to 1 other carbon
+834,Chi,Xch-3d,"Chi (‘chain’, 3, ‘d’, False)",2D,3-ordered Chi chain weighted by sigma electrons
+890,Constitutional,SZ,ConstitutionalSum (‘Z’),2D,sum of constitutional weighted by atomic number
+906,DetourMatrix,SpAbs_Dt,DetourMatrix (‘SpAbs’),2D,graph energy from detourn matrix
+920,DistanceMatrix,SpAbs_D,DistanceMatrix (‘SpAbs’),2D,graph energy from distance matrix
+932,EState,NsLi,"AtomTypeEState (‘count’, ‘sLi’)",2D,number of sLi
+1248,EccentricConnectivityIndex,ECIndex,EccentricConnectivityIndex (),2D,eccentric connectivity index
+1249,ExtendedTopochemicalAtom,ETA_alpha,"EtaCoreCount (False, False)",2D,ETA core count
+1294,FragmentComplexity,fragCpx,FragmentComplexity (),2D,fragment complexity
+1295,Framework,fMF,Framework (),2D,molecular framework ratio
+1296,GeometricalIndex,GeomDiameter,Diameter3D (),3D,geometric diameter
+1300,GravitationalIndex,GRAV,"GravitationalIndex (True, False)",3D,heavy atom gravitational index
+1304,HydrogenBond,nHBAcc,HBondAcceptor (),2D,number of hydrogen bond acceptor
+1306,InformationContent,IC0,InformationContent (0),2D,0-ordered neighborhood information content
+1348,KappaShapeIndex,Kier1,KappaShapeIndex1 (),2D,kappa shape index 1
+1351,Lipinski,Lipinski,Lipinski (),2D,Lipinski rule of five
+1353,LogS,FilterItLogS,LogS (),2D,Filter-it™ LogS
+1354,McGowanVolume,VMcGowan,McGowanVolume (),2D,McGowan volume
+1355,MoRSE,Mor01,"MoRSE (None, 1)",3D,3D-MoRSE (distance = 1)
+1515,MoeType,LabuteASA,LabuteASA (),2D,Labute’s Approximate Surface Area
+1568,MolecularDistanceEdge,MDEC-11,"MolecularDistanceEdge (1, 1, ‘C’)",2D,molecular distance edge between primary C and primary C
+1587,MolecularId,MID,"MolecularId (‘any’, False, 1e-10)",2D,molecular ID
+1599,MomentOfInertia,MOMI-X,MomentOfInertia (‘X’),3D,moment of inertia (axis = X)
+1602,PBF,PBF,PBF (),3D,PBF
+1603,PathCount,MPC2,"PathCount (2, False, False, False)",2D,2-ordered path count
+1624,Polarizability,apol,APol (False),2D,atomic polarizability
+1626,RingCount,nRing,"RingCount (None, False, False, None, None)",2D,ring count
+1764,RotatableBond,nRot,RotatableBondsCount (),2D,rotatable bonds count
+1766,SLogP,SLogP,SLogP (),2D,Wildman-Crippen LogP
+1768,TopoPSA,TopoPSA(NO),TopoPSA (True),2D,topological polar surface area (use only nitrogen and oxygen)
+1770,TopologicalCharge,GGI1,"TopologicalCharge (‘raw’, 1)",2D,1-ordered raw topological charge
+1791,TopologicalIndex,Diameter,Diameter (),2D,topological diameter
+1795,VdwVolumeABC,Vabc,VdwVolumeABC (),2D,ABC van der waals volume
+1796,VertexAdjacencyInformation,VAdjMat,VertexAdjacencyInformation (),2D,vertex adjacency information
+1797,WalkCount,MWC01,"WalkCount (1, False, False)",2D,walk count (leg-1)
+1818,Weight,MW,"Weight (True, False)",2D,exact molecular weight
+1820,WienerIndex,WPath,WienerIndex (False),2D,Wiener index
+1822,ZagrebIndex,Zagreb1,"ZagrebIndex (1, 1)",2D,Zagreb index (version 1)

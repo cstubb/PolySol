@@ -1,0 +1,50 @@
+1 ABCIndex ABC ABCIndex () 2D atom-bond connectivity index
+3 AcidBase nAcid AcidicGroupCount () 2D acidic group count
+5 AdjacencyMatrix SpAbs_A AdjacencyMatrix (‘SpAbs’) 2D SpAbs of adjacency matrix
+17 Aromatic nAromAtom AromaticAtomsCount () 2D aromatic atoms count
+19 AtomCount nAtom AtomCount (‘Atom’) 2D number of all atoms
+36 Autocorrelation ATS0dv ATS (0, ‘dv’) 2D moreau-broto autocorrelation of lag 0 weighted by valence electrons
+642 BCUT BCUTc-1h BCUT (‘c’, 0) 2D first heighest eigenvalue of Burden matrix weighted by gasteiger charge
+666 BalabanJ BalabanJ BalabanJ () 2D Balaban’s J index
+667 BaryszMatrix SpAbs_DzZ BaryszMatrix (‘Z’, ‘SpAbs’) 2D graph energy from Barysz matrix weighted by atomic number
+771 BertzCT BertzCT BertzCT () 2D Bertz CT
+772 BondCount nBonds BondCount (‘any’, False) 2D number of all bonds in non-kekulized structure
+781 CPSA PNSA1 PNSA (1) 3D partial negative surface area (version 1)
+824 CarbonTypes C1SP1 CarbonTypes (1, 1) 2D SP carbon bound to 1 other carbon
+835 Chi Xch-3d Chi (‘chain’, 3, ‘d’, False) 2D 3-ordered Chi chain weighted by sigma electrons
+891 Constitutional SZ ConstitutionalSum (‘Z’) 2D sum of constitutional weighted by atomic number
+907 DetourMatrix SpAbs_Dt DetourMatrix (‘SpAbs’) 2D graph energy from detourn matrix
+921 DistanceMatrix SpAbs_D DistanceMatrix (‘SpAbs’) 2D graph energy from distance matrix
+933 EState NsLi AtomTypeEState (‘count’, ‘sLi’) 2D number of sLi
+1249 EccentricConnectivityIndex ECIndex EccentricConnectivityIndex () 2D eccentric connectivity index
+1250 ExtendedTopochemicalAtom ETA_alpha EtaCoreCount (False, False) 2D ETA core count
+1295 FragmentComplexity fragCpx FragmentComplexity () 2D fragment complexity
+1296 Framework fMF Framework () 2D molecular framework ratio
+1297 GeometricalIndex GeomDiameter Diameter3D () 3D geometric diameter
+1301 GravitationalIndex GRAV GravitationalIndex (True, False) 3D heavy atom gravitational index
+1305 HydrogenBond nHBAcc HBondAcceptor () 2D number of hydrogen bond acceptor
+1307 InformationContent IC0 InformationContent (0) 2D 0-ordered neighborhood information content
+1349 KappaShapeIndex Kier1 KappaShapeIndex1 () 2D kappa shape index 1
+1352 Lipinski Lipinski Lipinski () 2D Lipinski rule of five
+1354 LogS FilterItLogS LogS () 2D Filter-it™ LogS
+1355 McGowanVolume VMcGowan McGowanVolume () 2D McGowan volume
+1356 MoRSE Mor01 MoRSE (None, 1) 3D 3D-MoRSE (distance = 1)
+1516 MoeType LabuteASA LabuteASA () 2D Labute’s Approximate Surface Area
+1569 MolecularDistanceEdge MDEC-11 MolecularDistanceEdge (1, 1, ‘C’) 2D molecular distance edge between primary C and primary C
+1588 MolecularId MID MolecularId (‘any’, False, 1e-10) 2D molecular ID
+1600 MomentOfInertia MOMI-X MomentOfInertia (‘X’) 3D moment of inertia (axis = X)
+1603 PBF PBF PBF () 3D PBF
+1604 PathCount MPC2 PathCount (2, False, False, False) 2D 2-ordered path count
+1625 Polarizability apol APol (False) 2D atomic polarizability
+1627 RingCount nRing RingCount (None, False, False, None, None) 2D ring count
+1765 RotatableBond nRot RotatableBondsCount () 2D rotatable bonds count
+1767 SLogP SLogP SLogP () 2D Wildman-Crippen LogP
+1769 TopoPSA TopoPSA(NO) TopoPSA (True) 2D topological polar surface area (use only nitrogen and oxygen)
+1771 TopologicalCharge GGI1 TopologicalCharge (‘raw’, 1) 2D 1-ordered raw topological charge
+1792 TopologicalIndex Diameter Diameter () 2D topological diameter
+1796 VdwVolumeABC Vabc VdwVolumeABC () 2D ABC van der waals volume
+1797 VertexAdjacencyInformation VAdjMat VertexAdjacencyInformation () 2D vertex adjacency information
+1798 WalkCount MWC01 WalkCount (1, False, False) 2D walk count (leg-1)
+1819 Weight MW Weight (True, False) 2D exact molecular weight
+1821 WienerIndex WPath WienerIndex (False) 2D Wiener index
+1823 ZagrebIndex Zagreb1 ZagrebIndex (1, 1) 2D Zagreb index (version 1)

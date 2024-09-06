@@ -1,0 +1,272 @@
+
+Starting model run at    2024-09-05 09:39:08.910967
+Descriptors:    atombd_mordred_atommordred_mfp_atommfp_rdfp_atomrdfp
+Models:    ['Decision Tree', 'Random Forest', 'AdaBoost', 'Naive Bayes']
+Model Numbers: 2345
+Descriptor bools:    [True, True, True, True, True, True, True]
+PCA NOT Used for Mordred/MorganFP/RDKitFP Data:    True
+Random seed used: 0
+Num processors to use: 10
+Raw Parser args: Namespace(descriptors=['atombd', 'mordred', 'atommordred', 'mfp', 'atommfp', 'rdfp', 'atomrdfp'], models=[2, 3, 4, 5], debug=None, seed=0, name=None, nprocs=10)
+~~~~~~~~	ATACTIC ATOM AND BOND (NO PE) RUN	~~~~~~~~
+
+START Decision Tree at 2024-09-05 09:39:08.923515
+DONE Decision Tree at 2024-09-05 09:39:23.244988
+Run time: 0:00:14.321473
+	Decision Tree Results:
+	  Score: 0.7670
+	  CV Average Score: 0.7608
+
+START Random Forest at 2024-09-05 09:39:23.249622
+DONE Random Forest at 2024-09-05 09:39:33.507948
+Run time: 0:00:10.258326
+	Random Forest Results:
+	  Score: 0.8330
+	  CV Average Score: 0.8122
+
+START AdaBoost at 2024-09-05 09:39:33.512024
+DONE AdaBoost at 2024-09-05 09:39:35.601676
+Run time: 0:00:02.089652
+	AdaBoost Results:
+	  Score: 0.7692
+	  CV Average Score: 0.7857
+
+START Naive Bayes at 2024-09-05 09:39:35.605374
+DONE Naive Bayes at 2024-09-05 09:39:35.754035
+Run time: 0:00:00.148661
+	Naive Bayes Results:
+	  Score: 0.6593
+	  CV Average Score: 0.6046
+Best model is Random Forest with an accuracy of 0.8330
+FINISHED ATACTIC ATOM AND BOND (NO PE) RUN
+
+~~~~~~~~	ATACTIC MORDRED (NO PE) RUN	~~~~~~~~
+
+START Decision Tree at 2024-09-05 09:39:35.861909
+DONE Decision Tree at 2024-09-05 09:39:44.433382
+Run time: 0:00:08.571473
+	Decision Tree Results:
+	  Score: 0.7846
+	  CV Average Score: 0.7681
+
+START Random Forest at 2024-09-05 09:39:44.436708
+DONE Random Forest at 2024-09-05 09:39:54.015695
+Run time: 0:00:09.578987
+	Random Forest Results:
+	  Score: 0.8242
+	  CV Average Score: 0.8378
+
+START AdaBoost at 2024-09-05 09:39:54.019555
+DONE AdaBoost at 2024-09-05 09:40:24.317749
+Run time: 0:00:30.298194
+	AdaBoost Results:
+	  Score: 0.7582
+	  CV Average Score: 0.7857
+
+START Naive Bayes at 2024-09-05 09:40:24.320413
+DONE Naive Bayes at 2024-09-05 09:40:25.429774
+Run time: 0:00:01.109361
+	Naive Bayes Results:
+	  Score: 0.7297
+	  CV Average Score: 0.7124
+Best model is Random Forest with an accuracy of 0.8242
+FINISHED ATACTIC MORDRED (NO PE) RUN
+
+~~~~~~~~	ATACTIC MORGAN FP (NO PE) RUN	~~~~~~~~
+
+START Decision Tree at 2024-09-05 09:40:25.576117
+DONE Decision Tree at 2024-09-05 09:40:46.992826
+Run time: 0:00:21.416709
+	Decision Tree Results:
+	  Score: 0.7582
+	  CV Average Score: 0.7726
+
+START Random Forest at 2024-09-05 09:40:46.996326
+DONE Random Forest at 2024-09-05 09:42:35.195279
+Run time: 0:01:48.198953
+	Random Forest Results:
+	  Score: 0.7363
+	  CV Average Score: 0.7638
+
+START AdaBoost at 2024-09-05 09:42:35.197199
+DONE AdaBoost at 2024-09-05 09:47:22.389566
+Run time: 0:04:47.192367
+	AdaBoost Results:
+	  Score: 0.7473
+	  CV Average Score: 0.7799
+
+START Naive Bayes at 2024-09-05 09:47:22.393280
+DONE Naive Bayes at 2024-09-05 09:48:01.181917
+Run time: 0:00:38.788637
+	Naive Bayes Results:
+	  Score: 0.5231
+	  CV Average Score: 0.5004
+Best model is Decision Tree with an accuracy of 0.7582
+FINISHED ATACTIC MORGAN FP (NO PE) RUN
+
+~~~~~~~~	ATACTIC RDKIT FP (NO PE) RUN	~~~~~~~~
+
+START Decision Tree at 2024-09-05 09:48:06.173889
+DONE Decision Tree at 2024-09-05 09:48:50.983838
+Run time: 0:00:44.809949
+	Decision Tree Results:
+	  Score: 0.7451
+	  CV Average Score: 0.7381
+
+START Random Forest at 2024-09-05 09:48:50.988326
+DONE Random Forest at 2024-09-05 09:50:31.676554
+Run time: 0:01:40.688228
+	Random Forest Results:
+	  Score: 0.7341
+	  CV Average Score: 0.7586
+
+START AdaBoost at 2024-09-05 09:50:31.679451
+DONE AdaBoost at 2024-09-05 10:44:17.764294
+Run time: 0:53:46.084843
+	AdaBoost Results:
+	  Score: 0.7648
+	  CV Average Score: 0.7557
+
+START Naive Bayes at 2024-09-05 10:44:17.766296
+DONE Naive Bayes at 2024-09-05 10:44:31.425603
+Run time: 0:00:13.659307
+	Naive Bayes Results:
+	  Score: 0.5033
+	  CV Average Score: 0.4703
+Best model is AdaBoost with an accuracy of 0.7648
+FINISHED ATACTIC RDKIT FP (NO PE) RUN
+
+~~~~~~~~	ATACTIC ATOM + MORDRED (NO PE) RUN	~~~~~~~~
+
+START Decision Tree at 2024-09-05 10:44:40.234038
+DONE Decision Tree at 2024-09-05 10:44:42.684036
+Run time: 0:00:02.449998
+	Decision Tree Results:
+	  Score: 0.7912
+	  CV Average Score: 0.7777
+
+START Random Forest at 2024-09-05 10:44:42.686037
+DONE Random Forest at 2024-09-05 10:44:46.015063
+Run time: 0:00:03.329026
+	Random Forest Results:
+	  Score: 0.8352
+	  CV Average Score: 0.8510
+
+START AdaBoost at 2024-09-05 10:44:46.017064
+DONE AdaBoost at 2024-09-05 10:44:57.618596
+Run time: 0:00:11.601532
+	AdaBoost Results:
+	  Score: 0.7890
+	  CV Average Score: 0.7879
+
+START Naive Bayes at 2024-09-05 10:44:57.620576
+DONE Naive Bayes at 2024-09-05 10:44:58.154590
+Run time: 0:00:00.534014
+	Naive Bayes Results:
+	  Score: 0.7297
+	  CV Average Score: 0.7094
+Best model is Random Forest with an accuracy of 0.8352
+FINISHED ATACTIC ATOM + MORDRED (NO PE) RUN
+
+~~~~~~~~	ATACTIC ATOM + MORGAN FP (NO PE) RUN	~~~~~~~~
+
+START Decision Tree at 2024-09-05 10:44:58.195575
+DONE Decision Tree at 2024-09-05 10:45:07.654492
+Run time: 0:00:09.458917
+	Decision Tree Results:
+	  Score: 0.7890
+	  CV Average Score: 0.7755
+
+START Random Forest at 2024-09-05 10:45:07.656479
+DONE Random Forest at 2024-09-05 10:45:36.874120
+Run time: 0:00:29.217641
+	Random Forest Results:
+	  Score: 0.8154
+	  CV Average Score: 0.8158
+
+START AdaBoost at 2024-09-05 10:45:36.875466
+DONE AdaBoost at 2024-09-05 10:47:44.860134
+Run time: 0:02:07.984668
+	AdaBoost Results:
+	  Score: 0.7341
+	  CV Average Score: 0.7931
+
+START Naive Bayes at 2024-09-05 10:47:44.862135
+DONE Naive Bayes at 2024-09-05 10:48:14.858849
+Run time: 0:00:29.996714
+	Naive Bayes Results:
+	  Score: 0.5407
+	  CV Average Score: 0.5261
+Best model is Random Forest with an accuracy of 0.8154
+FINISHED ATACTIC ATOM + MORGAN FP (NO PE) RUN
+
+~~~~~~~~	ATACTIC ATOM + RD FP (NO PE) RUN	~~~~~~~~
+
+START Decision Tree at 2024-09-05 10:48:29.899297
+DONE Decision Tree at 2024-09-05 10:48:49.677761
+Run time: 0:00:19.778464
+	Decision Tree Results:
+	  Score: 0.7802
+	  CV Average Score: 0.7923
+
+START Random Forest at 2024-09-05 10:48:49.679450
+DONE Random Forest at 2024-09-05 10:49:17.759011
+Run time: 0:00:28.079561
+	Random Forest Results:
+	  Score: 0.8022
+	  CV Average Score: 0.7960
+
+START AdaBoost at 2024-09-05 10:49:17.761807
+DONE AdaBoost at 2024-09-05 10:51:31.961856
+Run time: 0:02:14.200049
+	AdaBoost Results:
+	  Score: 0.8088
+	  CV Average Score: 0.7872
+
+START Naive Bayes at 2024-09-05 10:51:31.964132
+DONE Naive Bayes at 2024-09-05 10:51:49.746816
+Run time: 0:00:17.782684
+	Naive Bayes Results:
+	  Score: 0.5187
+	  CV Average Score: 0.4791
+Best model is AdaBoost with an accuracy of 0.8088
+FINISHED ATACTIC ATOM + RD FP (NO PE) RUN
+
+Writing y train and test sets...
+Done writing y data.
+Atactic Atom and Bond (No PE)
+	('Decision Tree', 0.7670329670329671)
+	('Random Forest', 0.832967032967033)
+	('AdaBoost', 0.7692307692307693)
+	('Naive Bayes', 0.6593406593406593)
+Atactic Mordred (No PE)
+	('Decision Tree', 0.7846153846153846)
+	('Random Forest', 0.8241758241758241)
+	('AdaBoost', 0.7582417582417582)
+	('Naive Bayes', 0.7296703296703296)
+Atactic Morgan FP (No PE)
+	('Decision Tree', 0.7582417582417582)
+	('Random Forest', 0.7362637362637363)
+	('AdaBoost', 0.7472527472527473)
+	('Naive Bayes', 0.5230769230769231)
+Atactic RDKit FP (No PE)
+	('Decision Tree', 0.7450549450549451)
+	('Random Forest', 0.734065934065934)
+	('AdaBoost', 0.7648351648351648)
+	('Naive Bayes', 0.5032967032967033)
+Atactic Atom + Mordred (No PE)
+	('Decision Tree', 0.7912087912087912)
+	('Random Forest', 0.8351648351648352)
+	('AdaBoost', 0.789010989010989)
+	('Naive Bayes', 0.7296703296703296)
+Atactic Atom + Morgan FP (No PE)
+	('Decision Tree', 0.789010989010989)
+	('Random Forest', 0.8153846153846154)
+	('AdaBoost', 0.734065934065934)
+	('Naive Bayes', 0.5406593406593406)
+Atactic Atom + RD FP (No PE)
+	('Decision Tree', 0.7802197802197802)
+	('Random Forest', 0.8021978021978022)
+	('AdaBoost', 0.8087912087912088)
+	('Naive Bayes', 0.5186813186813187)
+ALL ML RUNS FINISHED at 2024-09-05 10:51:52.316885
