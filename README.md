@@ -1,5 +1,5 @@
 # PolySol Data Repository
-This is a data repository associated with the manuscript titled "Predicting homopolymer and copolymer solubility through machine learning" by Christopher D. Stubbs, Yeonjoon Kim, Ethan Quinn, Raúl Pérez-Soto, Eugene Y.-X. Chen, and Seonah Kim.
+This is a data repository associated with the manuscript titled "Predicting homopolymer and copolymer solubility through machine learning" by Christopher D. Stubbs, Yeonjoon Kim, Ethan C. Quinn, Raúl Pérez-Soto, Eugene Y.-X. Chen, and Seonah Kim.
 
 This repository consists of a few parts:
 

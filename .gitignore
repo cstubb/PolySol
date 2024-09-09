@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Notepad++
+*.bak
+
+#Vim
+*.swp
+*.un~
+
 # C extensions
 *.so
 
