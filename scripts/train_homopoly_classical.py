@@ -60,7 +60,7 @@ pkl_path = (data_path)/f"pkls/2D_atactic_NOPE_{file_suffix}_fm"
 
 
 # Read Data
-dfnr = pd.read_pickle(pkl_path_base/f"df_atactic_NOPE_{file_suffix}_norad.pkl") # used to be 'df_diblock_...'
+dfnr = pd.read_pickle(pkl_path_base/f"df_atactic_NOPE_{file_suffix}_norad.pkl") 
 atom_bd_2d_rdkit_norad = pd.read_json(json_path/f"atactic_NOPE_{file_suffix}_atom_bd_2d_rdkit_norad.json")
 
 
@@ -201,7 +201,7 @@ def gen_ml_models(model_names: list, model_funcs: list, X_train, y_train, X_test
     for name, clf in zip(model_names, model_funcs):
         model_start_time = datetime.now()
         write_to_log(f'\nSTART {name} at {model_start_time}')
-        with parallel_backend('threading', n_jobs=args.nprocs): # NOTE Used to be hardcoded 10
+        with parallel_backend('threading', n_jobs=args.nprocs):
             model_fit = clf.fit(X_train, y_train)
         score = clf.score(X_test, y_test)
         models_list_out.append([name, model_fit, score])
@@ -210,7 +210,7 @@ def gen_ml_models(model_names: list, model_funcs: list, X_train, y_train, X_test
                                  y_train, # Target vector
                                  cv=KFold(n_splits=5, shuffle=True, random_state=rng), # Cross-validation technique
                                  scoring="accuracy", # Loss function
-                                 n_jobs=args.nprocs) # NOTE Changed to use args.nprocs (default 10).
+                                 n_jobs=args.nprocs) 
         kfold_list_out.append([name, model_fit, np.mean(cv_results), score, cv_results])
         model_end_time = datetime.now()
         write_to_log(f'DONE {name} at {model_end_time}')
@@ -229,7 +229,7 @@ def gen_ml_models(model_names: list, model_funcs: list, X_train, y_train, X_test
 
         
 ########### RUN MODELS ###########
-if run_atom_bd == False & run_mordred == False & run_atom_mordred == False: # to be changed
+if run_atom_bd == False & run_mordred == False & run_atom_mordred == False: 
     no_descriptors_warning = "Warning: All models appear to be false!"
     print(no_descriptors_warning)
     write_to_log(no_descriptors_warning)    
@@ -273,14 +273,14 @@ for i,descrip_bool in enumerate(descriptor_bools):
             X_test_name = short_name + model_numbers_str + "_NOPCA" + "_X_test.pkl"
             
             
-        with open(pkl_out_path/model_list_name, 'wb') as f1: # Check path
+        with open(pkl_out_path/model_list_name, 'wb') as f1:
             pickle.dump(curr_models_list, f1)
-        with open(pkl_out_path/kfold_list_name, 'wb') as f2: # Check path
+        with open(pkl_out_path/kfold_list_name, 'wb') as f2:
             pickle.dump(curr_kfold_list, f2)
             
-        with open(pkl_out_path/X_train_name, 'wb') as f3: # Check path
+        with open(pkl_out_path/X_train_name, 'wb') as f3:
             pickle.dump(X_train_data, f3)
-        with open(pkl_out_path/X_test_name, 'wb') as f4: # Check path
+        with open(pkl_out_path/X_test_name, 'wb') as f4:
             pickle.dump(X_test_data, f4)
             
         write_to_log(f"FINISHED {long_name.upper()} RUN\n")

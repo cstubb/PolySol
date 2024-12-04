@@ -4,6 +4,7 @@ from itertools import chain,repeat
 import numpy as np
 import pandas as pd
 from sklearn.metrics import confusion_matrix,ConfusionMatrixDisplay
+from pathlib import Path
 
 #  dff - Short for dataframe(df) final
 
@@ -51,7 +52,7 @@ class modelGroup:
 				model_names_short: list, descriptor_names_long: str, pca_used: bool,
     			rand_seed_used):
 		self.group_id = group_id
-		self.group_dir = group_dir
+		self.group_dir = Path(group_dir)
 		self.model_num_str = model_num_str
 		self.model_names_short = model_names_short
 		self.descriptor_names_long = descriptor_names_long
@@ -72,15 +73,15 @@ class modelGroup:
 
 		for mname in self.model_names_short:
 			if self.pca_used == True:
-				model_list_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_models_list.pkl')
-				kfold_list_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_kfold_list.pkl')
-				X_train_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_X_train.pkl')
-				X_test_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_X_test.pkl')
+				model_list_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_models_list.pkl')
+				kfold_list_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_kfold_list.pkl')
+				X_train_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_X_train.pkl')
+				X_test_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_X_test.pkl')
 			else:
-				model_list_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_models_list.pkl')
-				kfold_list_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_kfold_list.pkl')
-				X_train_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_X_train.pkl')
-				X_test_paths.append(self.group_dir + f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_X_test.pkl')
+				model_list_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_models_list.pkl')
+				kfold_list_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_kfold_list.pkl')
+				X_train_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_X_train.pkl')
+				X_test_paths.append(self.group_dir/f'{mname}_{self.model_num_str}_{pca_string}_rs{self.rand_seed}_X_test.pkl')
 		
 		# If an override list with entries formatted as
 		# 		[mlist_pth, kfold_pth, xtrain_pth, xtest_pth] <--- per set of descriptor

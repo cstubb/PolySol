@@ -130,8 +130,7 @@ classifiers = [
 
 names_to_run = names
 classifiers_to_run = classifiers
-#;;model_numbers_str = '2345' # For compatability - only RF is trained .
-model_numbers_str = '4' # For compatability - only RF is trained .
+model_numbers_str = '4' 
     
     
 ########### DESCRIPTOR SET FLAGS ###########
@@ -204,7 +203,7 @@ def gen_ml_models(model_names: list, model_funcs: list, X_train, y_train, X_test
     for name, clf in zip(model_names, model_funcs):
         model_start_time = datetime.now()
         write_to_log(f'\nSTART {name} at {model_start_time}')
-        with parallel_backend('threading', n_jobs=args.nprocs): # Added
+        with parallel_backend('threading', n_jobs=args.nprocs): 
             model_fit = clf.fit(X_train, y_train)
         score = clf.score(X_test, y_test)
         models_list_out.append([name, model_fit, score])
@@ -230,7 +229,7 @@ def gen_ml_models(model_names: list, model_funcs: list, X_train, y_train, X_test
 
 
 ########### RUN MODELS ###########
-if run_atom_bd == False & run_mordred == False & run_atom_mordred == False: # to be changed
+if run_atom_bd == False & run_mordred == False & run_atom_mordred == False:
     no_descriptors_warning = "Warning: All models appear to be false!"
     print(no_descriptors_warning)
     write_to_log(no_descriptors_warning)    
@@ -273,14 +272,14 @@ for i,descrip_bool in enumerate(descriptor_bools):
             X_train_name = short_name + model_numbers_str + "_NOPCA" + "_X_train.pkl"
             X_test_name = short_name + model_numbers_str + "_NOPCA" + "_X_test.pkl"
 
-        with open(pkl_out_path/model_list_name, 'wb') as f1: # Check path
+        with open(pkl_out_path/model_list_name, 'wb') as f1:
             pickle.dump(curr_models_list, f1)
-        with open(pkl_out_path/kfold_list_name, 'wb') as f2: # Check path
+        with open(pkl_out_path/kfold_list_name, 'wb') as f2:
             pickle.dump(curr_kfold_list, f2)
             
-        with open(pkl_out_path/X_train_name, 'wb') as f3: # Check path
+        with open(pkl_out_path/X_train_name, 'wb') as f3:
             pickle.dump(X_train_data, f3)
-        with open(pkl_out_path/X_test_name, 'wb') as f4: # Check path
+        with open(pkl_out_path/X_test_name, 'wb') as f4:
             pickle.dump(X_test_data, f4)
             
         write_to_log(f"FINISHED {long_name.upper()} RUN\n")

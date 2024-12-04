@@ -14,8 +14,10 @@ This repository includes:
 - **Two new polymer solubility databases** (curated by hand from J. Brandrup's Polymer Handbook).
   - *Homopolymer solubility (1818 datapoints)*
     - File: data/pkls/df_atactic_NOPE_nr_norad.pkl
+    - File: data/csvs/df_atactic_NOPE_nr_norad.csv
   - *Copolymer solubility (270 datapoints)*
     - File: data/pkls/df_dicopoly_norad.pkl
+    - File: data/csvs/df_dicopoly_norad.csv
 - **Multiple new ML models of polymer solubility** (using molecular and/or fingerprint descriptors)
   - *Homopolymer classical*
     - File: scripts/train_homopoly_classical.py

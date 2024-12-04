@@ -1,0 +1,271 @@
+polymer;comonomer_ratios;copolymer_type;mono1_name;mono2_name;mono1_smiles;mono2_smiles;solvent;solvent_smiles;solvent_characteristic
+Poly(butadiene-co-styrene);[7, 3];generic;butadiene;styrene;C=CC=C;C=Cc1ccccc1;benzene;c1ccccc1;1
+Poly(butadiene-co-styrene);[95, 5];generic;butadiene;styrene;C=CC=C;C=Cc1ccccc1;benzene;c1ccccc1;1
+Poly(butadiene-co-styrene);[7, 3];generic;butadiene;styrene;C=CC=C;C=Cc1ccccc1;cyclohexane;C1CCCCC1;1
+Poly(butadiene-co-styrene);[95, 5];generic;butadiene;styrene;C=CC=C;C=Cc1ccccc1;cyclohexane;C1CCCCC1;1
+Poly(butadiene-co-styrene);[7, 3];generic;butadiene;styrene;C=CC=C;C=Cc1ccccc1;toluene;Cc1ccccc1;1
+Poly(butadiene-co-styrene);[95, 5];generic;butadiene;styrene;C=CC=C;C=Cc1ccccc1;toluene;Cc1ccccc1;1
+Poly(butadiene-co-acrylonitrile);[1, 1];generic;butadiene;acrylonitrile;C=CC=C;C=CC#N;acetone;CC(C)=O;1
+Poly(butadiene-co-acrylonitrile);[1, 1];generic;butadiene;acrylonitrile;C=CC=C;C=CC#N;benzene;c1ccccc1;1
+Poly(butadiene-co-acrylonitrile);[1, 1];generic;butadiene;acrylonitrile;C=CC=C;C=CC#N;chloroform;ClC(Cl)Cl;1
+Poly(ethylene-co-propylene);[3, 2];generic;ethylene;propylene;C=C;C=CC;benzene;c1ccccc1;1
+Poly(ethylene-co-acrylic acid);[6, 1];generic;ethylene;acrylic acid;C=C;C=CC(=O)O;xylene;Cc1ccc(C)cc1;1
+Poly(ethylene-co-1,4-hexadiene);[97, 3];generic;ethylene;1,4-hexadiene;C=C;C=CCC=CC;toluene;Cc1ccccc1;1
+Poly(ethylene-co-1-cyano-1,4-butylene);[1, 2];generic;ethylene;1-cyano-1,4-butylene;C=C;CCCCC#N;chloroform;ClC(Cl)Cl;1
+Poly(ethylene-co-1-cyano-1,4-butylene);[1, 2];generic;ethylene;1-cyano-1,4-butylene;C=C;CCCCC#N;n,n-dimethylacetamide;CC(=O)N(C)C;1
+Poly(ethylene-co-1-cyano-1,4-butylene);[1, 2];generic;ethylene;1-cyano-1,4-butylene;C=C;CCCCC#N;dimethyl sulfoxide;CS(C)=O;1
+Poly(isobutylene-co-4-methylstyrene);[95, 5];generic;isobutylene;4-methylstyrene;C=C(C)C;C=Cc1ccc(C)cc1;chloroform;ClC(Cl)Cl;1
+Poly[hexene-co-N,N-di(isopropyl)amino-1-pentene];[2, 3];generic;hexene;N,N-diisopropylamino-1-pentene;C=CCCCC;C=CCCCN(C(C)C)C(C)C;hexane;CCCCCC;1
+Poly(vinylcyclohexane-co-methyl acrylate);[9, 1];generic;vinylcyclohexane;methyl acrylate;C=CC1CCCCC1;C=CC(=O)OC;tetrahydrofuran;C1CCOC1;1
+Poly(methyl methacrylate-co-2-acrylamido-2-methyl-1-propanesulfonic acid);[95, 5];generic;methyl methacrylate;2-acrylamido-2-methyl-1-propanesulfonic acid;C=C(C)C(=O)OC;C=CC(=O)NC(C)(C)CS(=O)(=O)O;benzene;c1ccccc1;1
+Poly(methyl methacrylate-co-2-acrylamido-2-methyl-1-propanesulfonic acid);[95, 5];generic;methyl methacrylate;2-acrylamido-2-methyl-1-propanesulfonic acid;C=C(C)C(=O)OC;C=CC(=O)NC(C)(C)CS(=O)(=O)O;toluene;Cc1ccccc1;1
+Poly(butyl methacrylate-co-i-butyl methacrylate);[1, 1];generic;butyl methacrylate;i-butyl methacrylate;C=C(C)C(=O)OCCCC;C=C(C)C(=O)OCC(C)C;acetone;CC(C)=O;1
+Poly(butyl methacrylate-co-i-butyl methacrylate);[1, 1];generic;butyl methacrylate;i-butyl methacrylate;C=C(C)C(=O)OCCCC;C=C(C)C(=O)OCC(C)C;methyl ethyl ketone;CCC(C)=O;1
+Poly(butyl methacrylate-co-i-butyl methacrylate);[1, 1];generic;butyl methacrylate;i-butyl methacrylate;C=C(C)C(=O)OCCCC;C=C(C)C(=O)OCC(C)C;methylene chloride;ClCCl;1
+Poly[2-(dimethylamino)ethyl methacrylate-co-acrylamide];[4, 1];generic;2-dimethylaminoethyl methacrylate;acrylamide;C=C(C)C(=O)OCCN(C)C;C=CC(N)=O;water;O;1
+Poly[2-(dimethylamino)ethyl methacrylate-co-acrylamide];[3, 2];generic;2-dimethylaminoethyl methacrylate;acrylamide;C=C(C)C(=O)OCCN(C)C;C=CC(N)=O;water;O;1
+Poly(N-dodecylacrylamide-co-N-vinylcarbazole);[15, 1];generic;N-dodecylacrylamide;N-vinylcarbazole;C=CC(=O)NCCCCCCCCCCCC;C=Cn1c2ccccc2c2ccccc21;chloroform;ClC(Cl)Cl;1
+Poly(N-dodecylacrylamide-co-N-vinylcarbazole);[1, 2];generic;N-dodecylacrylamide;N-vinylcarbazole;C=CC(=O)NCCCCCCCCCCCC;C=Cn1c2ccccc2c2ccccc21;chloroform;ClC(Cl)Cl;1
+Poly(methyl vinyl ether-alt-methyl tricyanoethylenecarboxylate);[1, 1];alternating;methyl vinyl ether;methyl tricyanoethylenecarboxylate;C=COC;COC(=O)C(C#N)=C(C#N)C#N;n,N-dimethylacetamide;CC(=O)N(C)C;1
+Poly(methyl vinyl ether-alt-methyl tricyanoethylenecarboxylate);[1, 1];alternating;methyl vinyl ether;methyl tricyanoethylenecarboxylate;C=COC;COC(=O)C(C#N)=C(C#N)C#N;n,n-dimethylformamide;CN(C)C=O;1
+Poly(methyl vinyl ether-alt-methyl tricyanoethylenecarboxylate);[1, 1];alternating;methyl vinyl ether;methyl tricyanoethylenecarboxylate;C=COC;COC(=O)C(C#N)=C(C#N)C#N;nitromethane;C[N+](=O)[O-];1
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;acetone;CC(C)=O;1
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;carbon tetrachloride;ClC(Cl)(Cl)Cl;1
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;chloroform;ClC(Cl)Cl;1
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;n,n-dimethylformamide;CN(C)C=O;1
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;dimethyl sulfoxide;CS(C)=O;1
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;tetrahydrofuran;C1CCOC1;1
+Poly(vinyl alcohol-co-maleic anhydride);[1, 1];generic;vinyl alcohol;maleic anhydride;C=CO;O=C1C=CC(=O)O1;acetone;CC(C)=O;1
+Poly(vinyl alcohol-co-vinyl pentanal);[1, 1];generic;vinyl alcohol;vinyl pentanal;C=CO;C=CC(C=O)CCC;benzene;c1ccccc1;1
+Poly(vinyl alcohol-co-vinyl pentanal);[1, 1];generic;vinyl alcohol;vinyl pentanal;C=CO;C=CC(C=O)CCC;chloroform;ClC(Cl)Cl;1
+Poly(vinylidene chloride cyanide-alt-1,3-cyclohexadiene);[1, 1];alternating;vinylidene chloride cyanide;1,3-cyclohexadiene;C=C(Cl)C#N;C1=CCCC=C1;chloroform;ClC(Cl)Cl;1
+Poly(chlorotrifluoroethylene-co-vinylidene fluoride);[3, 1];generic;chlorotrifluoroethylene;vinylidene fluoride;FC(F)=C(F)Cl;C=C(F)F;methyl ethyl ketone;CCC(C)=O;1
+Poly[tetrafluoroethylene-co-4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole];[13, 87];generic;tetrafluoroethylene;4,5-difluoro-2,2-bistrifluoromethyl-1,3-dioxole;FC(F)=C(F)F;FC1=C(F)OC(C(F)(F)F)(C(F)(F)F)O1;hexafluorobenzene;Fc1c(F)c(F)c(F)c(F)c1F;1
+Poly[tetrafluoroethylene-co-4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole];[35, 65];generic;tetrafluoroethylene;4,5-difluoro-2,2-bistrifluoromethyl-1,3-dioxole;FC(F)=C(F)F;FC1=C(F)OC(C(F)(F)F)(C(F)(F)F)O1;hexafluorobenzene;Fc1c(F)c(F)c(F)c(F)c1F;1
+Poly[tetrafluoroethylene-co-4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole];[13, 87];generic;tetrafluoroethylene;4,5-difluoro-2,2-bistrifluoromethyl-1,3-dioxole;FC(F)=C(F)F;FC1=C(F)OC(C(F)(F)F)(C(F)(F)F)O1;perfluorooctane;FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;1
+Poly[tetrafluoroethylene-co-4,5-difluoro-2,2-bis(trifluoromethyl)-1,3-dioxole];[35, 65];generic;tetrafluoroethylene;4,5-difluoro-2,2-bistrifluoromethyl-1,3-dioxole;FC(F)=C(F)F;FC1=C(F)OC(C(F)(F)F)(C(F)(F)F)O1;perfluorooctane;FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;1
+Poly(acrylonitrile-co-vinyl acetate);[98, 2];generic;acrylonitrile;vinyl acetate;C=CC#N;C=COC(C)=O;n,N-dimethylformamide;CN(C)C=O;1
+Poly(vinylidine fluoride-co-ethyl vinyl ether);[1, 1];generic;vinylidine fluoride;ethyl vinyl ether;C=C(F)F;C=COCC;tetrahydrofuran;C1CCOC1;1
+Poly(acrylonitrile-co-butadiene);[2, 3];generic;acrylonitrile;butadiene;C=CC#N;C=CC=C;methyl ethyl ketone;CCC(C)=O;1
+Poly(acrylonitrile-co-butadiene);[4, 1];generic;acrylonitrile;butadiene;C=CC#N;C=CC=C;methyl ethyl ketone;CCC(C)=O;1
+Poly(acrylonitrile-co-butadiene);[2, 3];generic;acrylonitrile;butadiene;C=CC#N;C=CC=C;toluene;Cc1ccccc1;1
+Poly(acrylonitrile-co-butadiene);[4, 1];generic;acrylonitrile;butadiene;C=CC#N;C=CC=C;toluene;Cc1ccccc1;1
+Poly(styrene-co-allyl alcohol);[94, 6];generic;styrene;allyl alcohol;C=Cc1ccccc1;C=CCO;tetrahydrofuran;C1CCOC1;1
+Poly(styrene-co-acrylonitrile);[3, 2];generic;styrene;acrylonitrile;C=Cc1ccccc1;C=CC#N;chloroform;ClC(Cl)Cl;1
+Poly(styrene-co-acrylonitrile);[3, 2];generic;styrene;acrylonitrile;C=Cc1ccccc1;C=CC#N;methyl ethyl ketone;CCC(C)=O;1
+Poly(styrene-co-acrylonitrile);[3, 2];generic;styrene;acrylonitrile;C=Cc1ccccc1;C=CC#N;methylene chloride;ClCCl;1
+Poly(styrene-co-acrylonitrile);[3, 2];generic;styrene;acrylonitrile;C=Cc1ccccc1;C=CC#N;methanol;CO;1
+Poly(styrene-co-acrylonitrile);[3, 2];generic;styrene;acrylonitrile;C=Cc1ccccc1;C=CC#N;tetrahydrofuran;C1CCOC1;1
+Poly(styrene-co-tert-butoxycarbonyloxystyrene);[4, 5];generic;styrene;tert-butoxycarbonyloxystyrene;C=Cc1ccccc1;CC(C)(C)OC(=O)OC=Cc1ccccc1;tetrahydrofuran;C1CCOC1;1
+Poly(styrene-co-tert-butoxycarbonyloxystyrene);[4, 5];generic;styrene;tert-butoxycarbonyloxystyrene;C=Cc1ccccc1;CC(C)(C)OC(=O)OC=Cc1ccccc1;pyridine;c1ccncc1;1
+Poly(styrene-co-butyl methacrylate);[1, 1];generic;styrene;butyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OCCCC;methyl ethyl ketone;CCC(C)=O;1
+Poly(styrene-co-butyl methacrylate);[1, 1];generic;styrene;butyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OCCCC;toluene;Cc1ccccc1;1
+Poly(styrene-alt-2,4-diamino-6-vinyl-1,3,5-triazine);[1, 1];alternating;styrene;2,4-diamino-6-vinyl-1,3,5-triazine;C=Cc1ccccc1;C=Cc1nc(N)nc(N)n1;dimethyl sulfoxide;CS(C)=O;1
+Poly(styrene-alt-2,4-diamino-6-vinyl-1,3,5-triazine);[1, 1];alternating;styrene;2,4-diamino-6-vinyl-1,3,5-triazine;C=Cc1ccccc1;C=Cc1nc(N)nc(N)n1;hexafluoroisopropanol;OC(C(F)(F)F)C(F)(F)F;1
+Poly(styrene-co-maleic anhydride);[1, 1];generic;styrene;maleic anhydride;C=Cc1ccccc1;O=C1C=CC(=O)O1;acetone;CC(C)=O;1
+Poly(styrene-co-maleic anhydride);[1, 1];generic;styrene;maleic anhydride;C=Cc1ccccc1;O=C1C=CC(=O)O1;acetonitrile;CC#N;1
+Poly(styrene-co-maleic anhydride);[1, 1];generic;styrene;maleic anhydride;C=Cc1ccccc1;O=C1C=CC(=O)O1;methyl ethyl ketone;CCC(C)=O;1
+Poly(styrene-alt-maleimide);[1, 1];alternating;styrene;maleimide;C=Cc1ccccc1;O=C1C=CC(=O)N1;tetrahydrofuran;C1CCOC1;1
+Poly(styrene-co-4-thiomethylstyrene);[95, 5];generic;styrene;4-thiomethylstyrene;C=Cc1ccccc1;C=Cc1ccc(C=S)cc1;tetrahydrofuran;C1CCOC1;1
+Poly(styrene-co-4-vinylpyridine);[1, 1];generic;styrene;4-vinylpyridine;C=Cc1ccccc1;C=Cc1ccncc1;n,N-dimethylformamide;CN(C)C=O;1
+Poly(styrene-co-4-vinylpyridine);[1, 1];generic;styrene;4-vinylpyridine;C=Cc1ccccc1;C=Cc1ccncc1;tetrahydrofuran;C1CCOC1;1
+Poly(N-vinylpyrrolidone-co-acrylic acid);[3, 1];generic;N-vinylpyrrolidone;acrylic acid;C=CN1CCCC1=O;C=CC(=O)O;n-methylpyrrolidone;CN1CCCC1=O;1
+Poly(N-vinylpyrrolidone-co-acrylic acid);[3, 1];generic;N-vinylpyrrolidone;acrylic acid;C=CN1CCCC1=O;C=CC(=O)O;n-methylpyrrolidone;CN1CCCC1=O;1
+Poly(N-vinylpyrrolidone-co-vinyl acetate);[1, 4];generic;N-vinylpyrrolidone;vinyl acetate;C=CN1CCCC1=O;C=COC(C)=O;ethanol;CCO;1
+Poly(N-vinylpyrrolidone-co-vinyl acetate);[2, 3];generic;N-vinylpyrrolidone;vinyl acetate;C=CN1CCCC1=O;C=COC(C)=O;ethanol;CCO;1
+Poly(N-vinylpyrrolidone-co-vinyl acetate);[1, 4];generic;N-vinylpyrrolidone;vinyl acetate;C=CN1CCCC1=O;C=COC(C)=O;isopropanol;CC(C)O;1
+Poly(N-vinylpyrrolidone-co-vinyl acetate);[2, 3];generic;N-vinylpyrrolidone;vinyl acetate;C=CN1CCCC1=O;C=COC(C)=O;isopropanol;CC(C)O;1
+Poly(N-vinylpyrrolidone-co-vinyl alcohol);[13, 1];generic;N-vinylpyrrolidone;vinyl alcohol;C=CN1CCCC1=O;C=CO;ethanol;CCO;1
+Poly(N-vinylpyrrolidone-co-vinyl acetate);[1, 1];generic;N-vinylpyrrolidone;vinyl acetate;C=CN1CCCC1=O;C=COC(C)=O;water;O;1
+Poly(N-vinylformamide-co-methyl 3-phenyl-2-cyanopropenoate);[1, 1];generic;N-vinylformamide;methyl 3-phenyl-2-cyanopropenoate;C=CNC=O;COC(=O)C(C#N)=Cc1ccccc1;n,N-dimethylformamide;CN(C)C=O;1
+Poly(N-vinylformamide-co-methyl 3-phenyl-2-cyanopropenoate);[1, 1];generic;N-vinylformamide;methyl 3-phenyl-2-cyanopropenoate;C=CNC=O;COC(=O)C(C#N)=Cc1ccccc1;n-methylpyrrolidone;CN1CCCC1=O;1
+Poly(2-vinylpyridine-co-styrene);[7, 3];generic;2-vinylpyridine;styrene;C=Cc1ccccn1;C=Cc1ccccc1;benzene;c1ccccc1;1
+Poly(2-vinylpyridine-co-styrene);[7, 3];generic;2-vinylpyridine;styrene;C=Cc1ccccn1;C=Cc1ccccc1;chloroform;ClC(Cl)Cl;1
+Poly(2-vinylpyridine-co-styrene);[7, 3];generic;2-vinylpyridine;styrene;C=Cc1ccccn1;C=Cc1ccccc1;methyl ethyl ketone;CCC(C)=O;1
+Poly(2-vinylpyridine-co-styrene);[7, 3];generic;2-vinylpyridine;styrene;C=Cc1ccccn1;C=Cc1ccccc1;tetrahydrofuran;C1CCOC1;1
+Poly(4-vinylpyridine-co-styrene);[3, 2];generic;4-vinylpyridine;styrene;C=Cc1ccncc1;C=Cc1ccccc1;n,N-dimethylformamide;CN(C)C=O;1
+Poly(4-vinylpyridine-co-styrene);[3, 2];generic;4-vinylpyridine;styrene;C=Cc1ccncc1;C=Cc1ccccc1;tetrahydrofuran;C1CCOC1;1
+Poly(carbonylethylene-co-carbonyl-1,2-propylene);[7, 3];generic;carbonylethylene;carbonyl-1,2-propylene;C=C=C=O;CCCC=O;cresol;Cc1ccccc1O;1
+Poly(carbonylethylene-co-carbonyl-1,2-propylene);[7, 3];generic;carbonylethylene;carbonyl-1,2-propylene;C=C=C=O;CCCC=O;hexafluoropropylene;FC(F)=C(F)C(F)(F)F;1
+Poly(carbonylethylene-co-carbonyl-1,2-propylene);[7, 3];generic;carbonylethylene;carbonyl-1,2-propylene;C=C=C=O;CCCC=O;methylene chloride;ClCCl;1
+Poly(carbon monoxide-co-styrene);[1, 1];generic;carbon monoxide;styrene;[C-]#[O+];C=Cc1ccccc1;chlorobenzene;Clc1ccccc1;1
+Poly(carbon monoxide-co-styrene);[1, 1];generic;carbon monoxide;styrene;[C-]#[O+];C=Cc1ccccc1;hexafluoroisopropanol;OC(C(F)(F)F)C(F)(F)F;1
+Poly(carbon monoxide-co-styrene);[1, 1];generic;carbon monoxide;styrene;[C-]#[O+];C=Cc1ccccc1;methylene chloride;ClCCl;1
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[13, 87];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;n,N-dimethylformamide;CN(C)C=O;1
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[38, 62];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;n,N-dimethylformamide;CN(C)C=O;1
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[13, 87];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;dimethyl sulfoxide;CS(C)=O;1
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[38, 62];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;dimethyl sulfoxide;CS(C)=O;1
+Poly(carbon dioxide-co-Propylene oxide);[1, 1];generic;carbon dioxide;Propylene oxide;O=C=O;CC1CO1;tetrahydrofuran;C1CCOC1;1
+Poly(Propylene carbonate-co-Propylene oxide);[9, 1];generic;Propylene carbonate;Propylene oxide;CC1COC(=O)O1;CC1CO1;chlorobenzene;Clc1ccccc1;1
+Poly(oxycarbonylpentamethylene-co-oxycarbonyl-3-hydroxypentamethylene);[9, 1];generic;oxycarbonylpentamethylene;oxycarbonyl-3-hydroxypentamethylene;CCCCCOC=O;CCC(O)CCOC=O;methylene chloride;ClCCl;1
+Poly(oxycarbonylpentamethylene-co-oxycarbonyl-3-hydroxypentamethylene);[9, 1];generic;oxycarbonylpentamethylene;oxycarbonyl-3-hydroxypentamethylene;CCCCCOC=O;CCC(O)CCOC=O;methylene chloride;ClCCl;1
+Poly(5-hydroxyvaleric acid-co-4-hydroxyvaleric acid);[1, 1];generic;5-hydroxyvaleric acid;4-hydroxyvaleric acid;O=C(O)CCCCO;CC(O)CCC(=O)O;methylene chloride;ClCCl;1
+Poly(oxycarbonyl-1,2-propylene-co-oxyethylenecarbonyloxyethylene);[9, 1];generic;oxycarbonyl-1,2-propylene;oxyethylenecarbonyloxyethylene;CCCOC=O;C=COC(=O)C=C=O;chloroform;ClC(Cl)Cl;1
+Poly(oxycarbonyl-1,2-propylene-co-oxyethylenecarbonyloxyethylene);[9, 1];generic;oxycarbonyl-1,2-propylene;oxyethylenecarbonyloxyethylene;CCCOC=O;C=COC(=O)C=C=O;chloroform;ClC(Cl)Cl;1
+Poly(oxycarbonyltrimethyleneoxyethylene-co-methyl vinyl ether);[1, 2];generic;oxycarbonyltrimethyleneoxyethylene;methyl vinyl ether;O=C1C=COCCCO1;C=COC;benzene;c1ccccc1;1
+Poly(oxycarbonyltrimethyleneoxyethylene-co-methyl vinyl ether);[1, 4];generic;oxycarbonyltrimethyleneoxyethylene;methyl vinyl ether;O=C1C=COCCCO1;C=COC;benzene;c1ccccc1;1
+Poly(3-hydroxybutyric acid-co-3-hydroxyvaleric acid);[1, 1];generic;3-hydroxybutyric acid;3-hydroxyvaleric acid;CC(O)CC(=O)O;CCC(O)CC(=O)O;chloroform;ClC(Cl)Cl;1
+Poly(oxy-1-oxo-3-methyltrimethylene-co-oxy-1-oxotrimethylene);[1, 0];generic;oxy-1-oxo-3-methyltrimethylene;oxy-1-oxotrimethylene;CCC(=O)C=O;CC(=O)C=O;chloroform;ClC(Cl)Cl;1
+Poly(oxy-1-oxo-3-methyltrimethylene-co-oxy-1-oxotrimethylene);[1, 3];generic;oxy-1-oxo-3-methyltrimethylene;oxy-1-oxotrimethylene;CCC(=O)C=O;CC(=O)C=O;chloroform;ClC(Cl)Cl;1
+Poly(3-hydroxybutyric acid-co-3-hydroxypropionic acid);[1, 1];generic;3-hydroxybutyric acid;3-hydroxypropionic acid;CC(O)CC(=O)O;O=C(O)CCO;chloroform;ClC(Cl)Cl;1
+Poly(oxy-1-oxo-1,2-propylene-co-oxycarbonylmethylene);[1, 1];generic;oxy-1-oxo-1,2-propylene;oxycarbonylmethylene;O=C=CC=O;COC=O;chloroform;ClC(Cl)Cl;1
+Poly(lactic acid-co-glycolic acid);[1, 1];generic;lactic acid;glycolic acid;CC(O)C(=O)O;O=C(O)CO;chloroform;ClC(Cl)Cl;1
+Poly(lactic acid-co-glycolic acid);[3, 1];generic;lactic acid;glycolic acid;CC(O)C(=O)O;O=C(O)CO;chloroform;ClC(Cl)Cl;1
+Poly(oxyterephthaloyloxyethylene-co-oxyhexanoyl);[1, 1];generic;oxyterephthaloyloxyethylene;oxyhexanoyl;O=c1occoc(=O)c2ccc1cc2;O=CCCCCC=O;chloroform;ClC(Cl)Cl;1
+Poly(ethylene terephthalate-co-e-caprolactone);[1, 1];generic;ethylene terephthalate;e-caprolactone;C=COC(=O)c1ccc(C(=O)O)cc1;O=C1CCCCCO1;chloroform;ClC(Cl)Cl;1
+Poly(butanediol-alt-diphenyl methane-1,4-diisocyanate);[1, 1];alternating;butanediol;diphenyl methane-1,4-diisocyanate;CCCC(O)O;O=C=Nc1ccc(C(N=C=O)c2ccccc2)cc1;n,N-dimethylacetamide;CC(=O)N(C)C;1
+Poly(1-butene-co-sulfur dioxide);[1, 1];generic;1-butene;sulfur dioxide;C=CCC;O=S=O;acetone;CC(C)=O;1
+Poly(1-butene-co-sulfur dioxide);[1, 1];generic;1-butene;sulfur dioxide;C=CCC;O=S=O;cyclohexanone;O=C1CCCCC1;1
+Poly(butylethylene-co-sulfur dioxide);[1, 1];generic;butylethylene;sulfur dioxide;C=CCCCC;O=S=O;benzene;c1ccccc1;1
+Poly(butylethylene-co-sulfur dioxide);[1, 1];generic;butylethylene;sulfur dioxide;C=CCCCC;O=S=O;chloroform;ClC(Cl)Cl;1
+Poly(butylethylene-co-sulfur dioxide);[1, 1];generic;butylethylene;sulfur dioxide;C=CCCCC;O=S=O;dioxane;C1COCCO1;1
+Poly(1,3-hexadiene-co-sulfur dioxide);[1, 3];generic;1,3-hexadiene;sulfur dioxide;C=CC=CCC;O=S=O;acetone;CC(C)=O;1
+Poly(1,3-hexadiene-co-sulfur dioxide);[1, 3];generic;1,3-hexadiene;sulfur dioxide;C=CC=CCC;O=S=O;chloroform;ClC(Cl)Cl;1
+Poly(1,3-hexadiene-co-sulfur dioxide);[1, 3];generic;1,3-hexadiene;sulfur dioxide;C=CC=CCC;O=S=O;n,n-dimethylacetamide;CC(=O)N(C)C;1
+Poly(1,3-hexadiene-co-sulfur dioxide);[1, 3];generic;1,3-hexadiene;sulfur dioxide;C=CC=CCC;O=S=O;n,n-dimethylformamide;CN(C)C=O;1
+Poly(1,3-hexadiene-co-sulfur dioxide);[1, 3];generic;1,3-hexadiene;sulfur dioxide;C=CC=CCC;O=S=O;tetrahydrofuran;C1CCOC1;1
+Poly(1-pentyne-co-sulfur dioxide);[1, 1];generic;1-pentyne;sulfur dioxide;C#CCCC;O=S=O;dioxane;C1COCCO1;1
+Poly(1-hexyne-co-sulfur dioxide);[1, 1];generic;1-hexyne;sulfur dioxide;C#CCCCC;O=S=O;acetone;CC(C)=O;1
+Poly(1-hexyne-co-sulfur dioxide);[1, 1];generic;1-hexyne;sulfur dioxide;C#CCCCC;O=S=O;dioxane;C1COCCO1;1
+Poly(1-heptyne-co-sulfur dioxide);[1, 1];generic;1-heptyne;sulfur dioxide;C#CCCCCC;O=S=O;acetone;CC(C)=O;1
+Poly(1-heptyne-co-sulfur dioxide);[1, 1];generic;1-heptyne;sulfur dioxide;C#CCCCCC;O=S=O;dioxane;C1COCCO1;1
+Poly[4-(tert-butoxycarbonyloxy)styrene-co-sulfur dioxide];[5, 1];generic;4-tert-butoxycarbonyloxystyrene;sulfur dioxide;C=Cc1ccc(OC(=O)OC(C)(C)C)cc1;O=S=O;toluene;Cc1ccccc1;1
+Poly(lysine-co-lactic acid);[1, 19];generic;lysine;lactic acid;NCCCC[C@H](N)C(=O)O;CC(O)C(=O)O;chloroform;ClC(Cl)Cl;1
+Poly(aspartic acid-co-lactic acid);[1, 9];generic;aspartic acid;lactic acid;N[C@@H](CC(=O)O)C(=O)O;CC(O)C(=O)O;methylene chloride;ClCCl;1
+Poly(pyromellitic dianhydride-co-o-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;o-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccccc1N;n,N-dimethylformamide;CN(C)C=O;1
+Poly(pyromellitic dianhydride-co-o-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;o-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccccc1N;n,n-dimethylacetamide;CC(=O)N(C)C;1
+Poly(pyromellitic dianhydride-co-o-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;o-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccccc1N;dimethyl sulfoxide;CS(C)=O;1
+Poly(pyromellitic dianhydride-co-o-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;o-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccccc1N;tetramethylurea;CN(C)C(=O)N(C)C;1
+Poly(pyromellitic dianhydride-co-m-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;m-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1cccc(N)c1;n,N-dimethylformamide;CN(C)C=O;1
+Poly(pyromellitic dianhydride-co-m-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;m-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1cccc(N)c1;n,n-dimethylacetamide;CC(=O)N(C)C;1
+Poly(pyromellitic dianhydride-co-m-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;m-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1cccc(N)c1;dimethyl sulfoxide;CS(C)=O;1
+Poly(pyromellitic dianhydride-co-m-phenylenediamin);[1, 1];generic;pyromellitic dianhydride;m-phenylenediamin;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1cccc(N)c1;tetramethylurea;CN(C)C(=O)N(C)C;1
+Poly(pyromellitic dianhydride-co-p-phenylenediamine);[1, 1];generic;pyromellitic dianhydride;p-phenylenediamine;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccc(N)cc1;n,N-dimethylformamide;CN(C)C=O;1
+Poly(pyromellitic dianhydride-co-p-phenylenediamine);[1, 1];generic;pyromellitic dianhydride;p-phenylenediamine;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccc(N)cc1;n,n-dimethylacetamide;CC(=O)N(C)C;1
+Poly(pyromellitic dianhydride-co-p-phenylenediamine);[1, 1];generic;pyromellitic dianhydride;p-phenylenediamine;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccc(N)cc1;dimethyl sulfoxide;CS(C)=O;1
+Poly(pyromellitic dianhydride-co-p-phenylenediamine);[1, 1];generic;pyromellitic dianhydride;p-phenylenediamine;O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12;Nc1ccc(N)cc1;tetramethylurea;CN(C)C(=O)N(C)C;1
+Poly(dimethylsilylene-co-1,3-dihydro-1,3-dimethyldisilazane);[1, 1];generic;dimethylsilylene;1,3-dihydro-1,3-dimethyldisilazane;C[Si]C;C[SiH2]N[SiH2]C;decaline;C1CCC2CCCCC2C1;1
+Poly(dimethylsilylene-co-1,3-dihydro-1,3-dimethyldisilazane);[1, 3];generic;dimethylsilylene;1,3-dihydro-1,3-dimethyldisilazane;C[Si]C;C[SiH2]N[SiH2]C;decaline;C1CCC2CCCCC2C1;1
+Poly(dimethylsilylene-co-1,3-dihydro-1,3-dimethyldisilazane);[1, 1];generic;dimethylsilylene;1,3-dihydro-1,3-dimethyldisilazane;C[Si]C;C[SiH2]N[SiH2]C;toluene;Cc1ccccc1;1
+Poly(dimethylsilylene-co-1,3-dihydro-1,3-dimethyldisilazane);[1, 3];generic;dimethylsilylene;1,3-dihydro-1,3-dimethyldisilazane;C[Si]C;C[SiH2]N[SiH2]C;toluene;Cc1ccccc1;1
+Poly(maleic anhydride-alt-isopropenylisocyanate);[1, 1];alternating;maleic anhydride;isopropenylisocyanate;O=C1C=CC(=O)O1;C=C(C)N=C=O;acetone;CC(C)=O;1
+Poly(maleic anhydride-alt-isopropenylisocyanate);[1, 1];alternating;maleic anhydride;isopropenylisocyanate;O=C1C=CC(=O)O1;C=C(C)N=C=O;n,n-dimethylformamide;CN(C)C=O;1
+Poly(maleic anhydride-alt-2-propenylisocyanate);[1, 1];alternating;maleic anhydride;2-propenylisocyanate;O=C1C=CC(=O)O1;C=CCN=C=O;methyl ethyl ketone;CCC(C)=O;1
+Poly(maleic anhydride-co-styrene);[3, 1];generic;maleic anhydride;styrene;O=C1C=CC(=O)O1;C=Cc1ccccc1;acetone;CC(C)=O;1
+Poly(maleic anhydride-co-styrene);[3, 1];generic;maleic anhydride;styrene;O=C1C=CC(=O)O1;C=Cc1ccccc1;methyl ethyl ketone;CCC(C)=O;1
+Poly(maleic anhydride-alt-methyl vinyl ether);[1, 1];alternating;maleic anhydride;methyl vinyl ether;O=C1C=CC(=O)O1;C=COC;methyl ethyl ketone;CCC(C)=O;1
+Poly(maleic anhydride-alt-methyl vinyl ether);[1, 1];alternating;maleic anhydride;methyl vinyl ether;O=C1C=CC(=O)O1;C=COC;tetrahydrofuran;C1CCOC1;1
+Poly(maleic anhydride-alt-1-octadecene);[1, 1];alternating;maleic anhydride;1-octadecene;O=C1C=CC(=O)O1;C=CCCCCCCCCCCCCCCCC;acetone;CC(C)=O;1
+Poly(maleic anhydride-alt-1-octadecene);[1, 1];alternating;maleic anhydride;1-octadecene;O=C1C=CC(=O)O1;C=CCCCCCCCCCCCCCCCC;benzene;c1ccccc1;1
+Poly(maleic anhydride-alt-1-octadecene);[1, 1];alternating;maleic anhydride;1-octadecene;O=C1C=CC(=O)O1;C=CCCCCCCCCCCCCCCCC;carbon tetrachloride;ClC(Cl)(Cl)Cl;1
+Poly(maleic anhydride-alt-1-octadecene);[1, 1];alternating;maleic anhydride;1-octadecene;O=C1C=CC(=O)O1;C=CCCCCCCCCCCCCCCCC;ethyl acetate;CCOC(C)=O;1
+Poly(maleic anhydride-co-N-vinylformamide);[1, 1];generic;maleic anhydride;N-vinylformamide;O=C1C=CC(=O)O1;C=CNC=O;tetrahydrofuran;C1CCOC1;1
+Poly(2,5-thiophenediyl-co-3-undecyl-2,5-thiophenediyl);[1, 1];generic;2,5-thiophenediyl;3-undecyl-2,5-thiophenediyl;c1ccsc1;CCCCCCCCCCCc1ccsc1;nitrobenzene;O=[N+]([O-])c1ccccc1;1
+Poly(2,5-thiophenediyl-co-3-undecyl-2,5-thiophenediyl);[1, 1];generic;2,5-thiophenediyl;3-undecyl-2,5-thiophenediyl;c1ccsc1;CCCCCCCCCCCc1ccsc1;tetrahydrofuran;C1CCOC1;1
+Poly(2,5-thiophenediyl-co-dimethylsilylene);[3, 1];generic;2,5-thiophenediyl;dimethylsilylene;c1ccsc1;C[Si]C;dimethoxyethane;COC(C)OC;1
+Poly(2,5-thiophenediyl-co-dimethylsilylene);[2, 3];generic;2,5-thiophenediyl;dimethylsilylene;c1ccsc1;C[Si]C;dimethoxyethane;COC(C)OC;1
+Poly(2,5-thiophenediyl-co-N-n-dodecyl-2,5-pyrrolediyl);[4, 1];generic;2,5-thiophenediyl;N-n-dodecyl-2,5-pyrrolediyl;c1ccsc1;CCCCCCCCCCCCn1cccc1;tetrahydrofuran;C1CCOC1;1
+Poly(butyl acrylate)-b-poly[3-(pentamethyldisiloxy)propylmethacrylate];[3, 1];block;butyl acrylate;3-pentamethyldisiloxypropylmethacrylate;C=CC(=O)OCCCC;C=C(CCCCO[Si](C)(C)[Si](C)(C)C)C(=O)[O-];tetrahydrofuran;C1CCOC1;1
+Poly(butyl vinyl ether)-b-poly(2-ethyloxazoline);[1, 1];block;butyl vinyl ether;2-ethyloxazoline;C=COCCCC;CCC1=NCCO1;chlorobenzene;Clc1ccccc1;1
+Poly(butyl vinyl ether)-b-poly(2-ethyloxazoline);[1, 1];block;butyl vinyl ether;2-ethyloxazoline;C=COCCCC;CCC1=NCCO1;tetrahydrofuran;C1CCOC1;1
+Poly(2-cinnamoylethyl methacrylate)-b-poly(acrylic acid);[4, 5];block;2-cinnamoylethyl methacrylate;acrylic acid;C=C(C)C(=O)OCCC(=O)C=Cc1ccccc1;C=CC(=O)O;methanol;CO;1
+Poly(2-cinnamoylethyl methacrylate)-b-poly(acrylic acid);[4, 5];block;2-cinnamoylethyl methacrylate;acrylic acid;C=C(C)C(=O)OCCC(=O)C=Cc1ccccc1;C=CC(=O)O;methylene chloride;ClCCl;1
+Poly(dimethylsiloxane)-b-poly(6-aminohexanoic acid);[1, 2];block;dimethylsiloxane;6-aminohexanoic acid;C[SiH](C)O[SiH3];NCCCCCC(=O)O;2,2,2-Trifluoroethanol;OCC(F)(F)F;1
+Poly(2-ethyl-2-oxazoline)-b-poly(lactic acid);[3, 2];block;2-ethyl-2-oxazoline;lactic acid;CCC1=NCCO1;CC(O)C(=O)O;chlorobenzene;Clc1ccccc1;1
+Poly(2-ethyl-2-oxazoline)-b-poly(lactic acid);[4, 2];block;2-ethyl-2-oxazoline;lactic acid;CCC1=NCCO1;CC(O)C(=O)O;chlorobenzene;Clc1ccccc1;1
+Poly(3-hydroxybutyric acid)-b-poly(e-caprolactone);[3, 5];block;3-hydroxybutyric acid;e-caprolactone;CC(O)CC(=O)O;O=C1CCCCCO1;chloroform;ClC(Cl)Cl;1
+Poly(3-hydroxybutyric acid)-b-poly(e-caprolactone);[1, 2];block;3-hydroxybutyric acid;e-caprolactone;CC(O)CC(=O)O;O=C1CCCCCO1;chloroform;ClC(Cl)Cl;1
+Polyisobutylene-b-poly(a-methylstyrene);[9, 1];block;isobutylene;a-methylstyrene;C=C(C)C;C=C(C)c1ccccc1;chloroform;ClC(Cl)Cl;1
+Poly(3-methyl-2,5-thiophenediyl)-b-poly(2-vinylpyrrolidone);[1, 1];block;3-methyl-2,5-thiophenediyl;2-vinylpyrrolidone;Cc1ccsc1;C=CC1NCCC1=O;anisole;COc1ccccc1;1
+Poly(oxytetramethylene)-b-poly(e-caprolactone);[1, 4];block;oxytetramethylene;e-caprolactone;CCCCO;O=C1CCCCCO1;tetrahydrofuran;C1CCOC1;1
+Poly(oxytetramethylene)-b-poly(e-caprolactone);[1, 4];block;oxytetramethylene;e-caprolactone;CCCCO;O=C1CCCCCO1;toluene;Cc1ccccc1;1
+Polystyrene-b-poly(tert-butyl methacrylate);[2, 3];block;styrene;tert-butyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OC(C)(C)C;dioxane;C1COCCO1;1
+Polystyrene-b-poly(tert-butyl methacrylate);[1, 4];block;styrene;tert-butyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OC(C)(C)C;dioxane;C1COCCO1;1
+Polystyrene-b-poly(dimethylsiloxane);[1, 1];block;styrene;dimethylsiloxane;C=Cc1ccccc1;C[SiH](C)O[SiH3];tetrahydrofuran;C1CCOC1;1
+Polystyrene-b-poly(dimethylsiloxane);[1, 9];block;styrene;dimethylsiloxane;C=Cc1ccccc1;C[SiH](C)O[SiH3];dioxane;C1COCCO1;1
+Polystyrene-b-poly(dimethylsiloxane);[3, 7];block;styrene;dimethylsiloxane;C=Cc1ccccc1;C[SiH](C)O[SiH3];dioxane;C1COCCO1;1
+Polystyrene-b-poly(hexyl isocyanate);[1, 4];block;styrene;hexyl isocyanate;C=Cc1ccccc1;CCCCCCN=C=O;carbon tetrachloride;ClC(Cl)(Cl)Cl;1
+Polystyrene-b-poly(hexyl isocyanate);[1, 4];block;styrene;hexyl isocyanate;C=Cc1ccccc1;CCCCCCN=C=O;chloroform;ClC(Cl)Cl;1
+Polystyrene-b-poly(hexyl isocyanate);[1, 4];block;styrene;hexyl isocyanate;C=Cc1ccccc1;CCCCCCN=C=O;toluene;Cc1ccccc1;1
+Polystyrene-b-poly(hydroxyethyl methacrylate);[2, 3];block;styrene;hydroxyethyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OCCO;n,N-dimethylformamide;CN(C)C=O;1
+Polystyrene-b-poly(hydroxyethyl methacrylate);[2, 3];block;styrene;hydroxyethyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OCCO;tetrahydrofuran;C1CCOC1;1
+Polystyrene-b-polyisoprene;[1, 1];block;styrene;isoprene;C=Cc1ccccc1;C=CC(=C)C;dioctyl phthalate;CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;1
+Polystyrene-b-poly(methyl methacrylate);[7, 3];block;styrene;methyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OC;toluene;Cc1ccccc1;1
+Polystyrene-b-poly(methylphenylsiloxane);[3, 2];block;styrene;methylphenylsiloxane;C=Cc1ccccc1;C[SiH](O[SiH3])c1ccccc1;cyclohexane;C1CCCCC1;1
+Polystyrene-b-poly(methyl vinyl ether);[2, 1];block;styrene;methyl vinyl ether;C=Cc1ccccc1;C=COC;methylene chloride;ClCCl;1
+Polystyrene-b-poly(2-vinylpyridine);[1, 1];block;styrene;2-vinylpyridine;C=Cc1ccccc1;C=Cc1ccccn1;benzene;c1ccccc1;1
+Polystyrene-b-poly(2-vinylpyridine);[1, 6];block;styrene;2-vinylpyridine;C=Cc1ccccc1;C=Cc1ccccn1;benzene;c1ccccc1;1
+Polystyrene-b-poly(vinylpyridine);[1, 1];block;styrene;vinylpyridine;C=Cc1ccccc1;C=Cc1ccccn1;tetrahydrofuran;C1CCOC1;1
+Polypropylene-b-poly(methacrylic acid);[2, 1];block;propylene;methacrylic acid;C=CC;C=C(C)C(=O)O;dioxane;C1COCCO1;1
+Polypropylene-b-poly(methacrylic acid);[2, 1];block;propylene;methacrylic acid;C=CC;C=C(C)C(=O)O;tetrahydrofuran;C1CCOC1;1
+Polypropylene-b-poly(methacrylic acid);[2, 1];block;propylene;methacrylic acid;C=CC;C=C(C)C(=O)O;toluene;Cc1ccccc1;1
+Poly(ethylene-co-1-cyano-1,4-butylene);[1, 2];generic;ethylene;1-cyano-1,4-butylene;C=C;CCCCC#N;methanol;CO;0
+Poly(vinylcyclohexane-co-methyl acrylate);[9, 1];generic;vinylcyclohexane;methyl acrylate;C=CC1CCCCC1;C=CC(=O)OC;water;O;0
+Poly(N-dodecylacrylamide-co-N-vinylcarbazole);[15, 1];generic;N-dodecylacrylamide;N-vinylcarbazole;C=CC(=O)NCCCCCCCCCCCC;C=Cn1c2ccccc2c2ccccc21;acrylonitrile;C=CC#N;0
+Poly(N-dodecylacrylamide-co-N-vinylcarbazole);[1, 2];generic;N-dodecylacrylamide;N-vinylcarbazole;C=CC(=O)NCCCCCCCCCCCC;C=Cn1c2ccccc2c2ccccc21;acrylonitrile;C=CC#N;0
+Poly(methyl vinyl ether-alt-methyl tricyanoethylenecarboxylate);[1, 1];alternating;methyl vinyl ether;methyl tricyanoethylenecarboxylate;C=COC;COC(=O)C(C#N)=C(C#N)C#N;diethyl ether;CCOCC;0
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;hexane;CCCCCC;0
+Poly(phenyl vinyl ether-alt-2-phenyl-1,1-dicyanoethylene);[1, 1];alternating;phenyl vinyl ether;2-phenyl-1,1-dicyanoethylene;C=COc1ccccc1;N#CC(C#N)=Cc1ccccc1;methanol;CO;0
+Poly(vinyl alcohol-co-ethylene);[1, 1];generic;vinyl alcohol;ethylene;C=CO;C=C;methylene chloride;ClCCl;0
+Poly(vinyl alcohol-co-ethylene);[1, 1];generic;vinyl alcohol;ethylene;C=CO;C=C;tetrahydrofuran;C1CCOC1;0
+Poly(vinyl alcohol-co-vinyl pentanal);[1, 1];generic;vinyl alcohol;vinyl pentanal;C=CO;C=CC(C=O)CCC;methanol;CO;0
+Poly(vinylidene chloride cyanide-alt-1,3-cyclohexadiene);[1, 1];alternating;vinylidene chloride cyanide;1,3-cyclohexadiene;C=C(Cl)C#N;C1=CCCC=C1;pentane;CCCCC;0
+Poly(chlorotrifluoroethylene-co-vinylidene fluoride);[3, 1];generic;chlorotrifluoroethylene;vinylidene fluoride;FC(F)=C(F)Cl;C=C(F)F;amyl acetate;CCCCCOC(C)=O;0
+Poly(styrene-co-tert-butoxycarbonyloxystyrene);[4, 5];generic;styrene;tert-butoxycarbonyloxystyrene;C=Cc1ccccc1;CC(C)(C)OC(=O)OC=Cc1ccccc1;methanol;CO;0
+Poly(styrene-co-tert-butoxycarbonyloxystyrene);[4, 5];generic;styrene;tert-butoxycarbonyloxystyrene;C=Cc1ccccc1;CC(C)(C)OC(=O)OC=Cc1ccccc1;Water;O;0
+Poly(styrene-co-maleic anhydride);[9, 1];generic;styrene;maleic anhydride;C=Cc1ccccc1;O=C1C=CC(=O)O1;methanol;CO;0
+Poly(styrene-co-4-thiomethylstyrene);[95, 5];generic;styrene;4-thiomethylstyrene;C=Cc1ccccc1;C=Cc1ccc(C=S)cc1;ethanol;CCO;0
+Poly(styrene-co-4-thiomethylstyrene);[95, 5];generic;styrene;4-thiomethylstyrene;C=Cc1ccccc1;C=Cc1ccc(C=S)cc1;hexane;CCCCCC;0
+Poly(N-vinylpyrrolidone-co-acrylic acid);[3, 1];generic;N-vinylpyrrolidone;acrylic acid;C=CN1CCCC1=O;C=CC(=O)O;methyl ethyl ketone;CCC(C)=O;0
+Poly(N-vinylpyrrolidone-co-acrylic acid);[3, 1];generic;N-vinylpyrrolidone;acrylic acid;C=CN1CCCC1=O;C=CC(=O)O;methyl ethyl ketone;CCC(C)=O;0
+Poly(N-vinylpyrrolidone-co-acrylic acid);[3, 1];generic;N-vinylpyrrolidone;acrylic acid;C=CN1CCCC1=O;C=CC(=O)O;tetrahydrofuran;C1CCOC1;0
+Poly(N-vinylpyrrolidone-co-acrylic acid);[3, 1];generic;N-vinylpyrrolidone;acrylic acid;C=CN1CCCC1=O;C=CC(=O)O;tetrahydrofuran;C1CCOC1;0
+Poly(N-vinylpyrrolidone-co-1-hexadecene);[1, 2];generic;N-vinylpyrrolidone;1-hexadecene;C=CN1CCCC1=O;C=CCCCCCCCCCCCCCC;n-Propanol;CCCO;0
+Poly(N-vinylpyrrolidone-co-1-hexadecene);[1, 2];generic;N-vinylpyrrolidone;1-hexadecene;C=CN1CCCC1=O;C=CCCCCCCCCCCCCCC;Water;O;0
+Poly(N-vinylpyrrolidone-co-vinyl alcohol);[13, 1];generic;N-vinylpyrrolidone;vinyl alcohol;C=CN1CCCC1=O;C=CO;diethyl ether;CCOCC;0
+Poly(N-vinylformamide-co-methyl 3-phenyl-2-cyanopropenoate);[1, 1];generic;N-vinylformamide;methyl 3-phenyl-2-cyanopropenoate;C=CNC=O;COC(=O)C(C#N)=Cc1ccccc1;chloroform;ClC(Cl)Cl;0
+Poly(N-vinylformamide-co-methyl 3-phenyl-2-cyanopropenoate);[1, 1];generic;N-vinylformamide;methyl 3-phenyl-2-cyanopropenoate;C=CNC=O;COC(=O)C(C#N)=Cc1ccccc1;diethyl ether;CCOCC;0
+Poly(N-vinylformamide-co-methyl 3-phenyl-2-cyanopropenoate);[1, 1];generic;N-vinylformamide;methyl 3-phenyl-2-cyanopropenoate;C=CNC=O;COC(=O)C(C#N)=Cc1ccccc1;ethyl acetate;CCOC(C)=O;0
+Poly(N-vinylformamide-co-methyl 3-phenyl-2-cyanopropenoate);[1, 1];generic;N-vinylformamide;methyl 3-phenyl-2-cyanopropenoate;C=CNC=O;COC(=O)C(C#N)=Cc1ccccc1;methylene chloride;ClCCl;0
+Poly(carbon monoxide-co-styrene);[1, 1];generic;carbon monoxide;styrene;[C-]#[O+];C=Cc1ccccc1;methanol;CO;0
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[13, 87];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;chloroform;ClC(Cl)Cl;0
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[38, 62];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;chloroform;ClC(Cl)Cl;0
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[13, 87];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;toluene;Cc1ccccc1;0
+Poly[oxy-3,5-bis(4-carboxyphenyl)-1,4-phenylene-co-oxy-3,5-bis(phenyl)-1,4-phenylene];[38, 62];generic;oxy-3,5-bis4-carboxyphenyl-1,4-phenylene;oxy-3,5-bisphenyl-1,4-phenylene;O=C(O)c1ccc(C2=CC(c3ccc(C(=O)O)cc3)C(=O)C=C2)cc1;O=C1C=CC(c2ccccc2)=CC1c1ccccc1;toluene;Cc1ccccc1;0
+Poly(carbon dioxide-co-Propylene oxide);[1, 1];generic;carbon dioxide;Propylene oxide;O=C=O;CC1CO1;methanol;CO;0
+Poly(oxycarbonyltrimethyleneoxyethylene-co-methyl vinyl ether);[1, 2];generic;oxycarbonyltrimethyleneoxyethylene;methyl vinyl ether;O=C1C=COCCCO1;C=COC;diethyl ether;CCOCC;0
+Poly(oxycarbonyltrimethyleneoxyethylene-co-methyl vinyl ether);[1, 4];generic;oxycarbonyltrimethyleneoxyethylene;methyl vinyl ether;O=C1C=COCCCO1;C=COC;diethyl ether;CCOCC;0
+Poly(oxy-1-oxo-3-methyltrimethylene-co-oxy-1-oxotrimethylene);[1, 0];generic;oxy-1-oxo-3-methyltrimethylene;oxy-1-oxotrimethylene;CCC(=O)C=O;CC(=O)C=O;hexane;CCCCCC;0
+Poly(oxy-1-oxo-3-methyltrimethylene-co-oxy-1-oxotrimethylene);[1, 3];generic;oxy-1-oxo-3-methyltrimethylene;oxy-1-oxotrimethylene;CCC(=O)C=O;CC(=O)C=O;hexane;CCCCCC;0
+Poly(oxy-1-oxo-3-methyltrimethylene-co-oxy-1-oxotrimethylene);[1, 0];generic;oxy-1-oxo-3-methyltrimethylene;oxy-1-oxotrimethylene;CCC(=O)C=O;CC(=O)C=O;methanol;CO;0
+Poly(oxy-1-oxo-3-methyltrimethylene-co-oxy-1-oxotrimethylene);[1, 3];generic;oxy-1-oxo-3-methyltrimethylene;oxy-1-oxotrimethylene;CCC(=O)C=O;CC(=O)C=O;methanol;CO;0
+Poly(3-hydroxybutyric acid-co-3-hydroxypropionic acid);[1, 1];generic;3-hydroxybutyric acid;3-hydroxypropionic acid;CC(O)CC(=O)O;O=C(O)CCO;hexane;CCCCCC;0
+Poly(3-hydroxybutyric acid-co-3-hydroxypropionic acid);[1, 1];generic;3-hydroxybutyric acid;3-hydroxypropionic acid;CC(O)CC(=O)O;O=C(O)CCO;methanol;CO;0
+Poly(oxyterephthaloyloxyethylene-co-oxyhexanoyl);[1, 1];generic;oxyterephthaloyloxyethylene;oxyhexanoyl;O=c1occoc(=O)c2ccc1cc2;O=CCCCCC=O;methanol;CO;0
+Poly(ethylene terephthalate-co-e-caprolactone);[1, 1];generic;ethylene terephthalate;e-caprolactone;C=COC(=O)c1ccc(C(=O)O)cc1;O=C1CCCCCO1;methanol;CO;0
+Poly(lysine-co-lactic acid);[1, 19];generic;lysine;lactic acid;NCCCC[C@H](N)C(=O)O;CC(O)C(=O)O;methanol;CO;0
+Poly[N-(acetyl)iminoethylene-co-N-(3-thiopheneylcarbonyl)iminoethylene];[1, 1];generic;N-acetyliminoethylene;N-3-thiopheneylcarbonyliminoethylene;C=C=NC(C)=O;C=C=NC(=O)c1ccsc1;acetone;CC(C)=O;0
+Poly[N-(acetyl)iminoethylene-co-N-(3-thiopheneylcarbonyl)iminoethylene];[1, 1];generic;N-acetyliminoethylene;N-3-thiopheneylcarbonyliminoethylene;C=C=NC(C)=O;C=C=NC(=O)c1ccsc1;acetonitrile;CC#N;0
+Poly[N-(acetyl)iminoethylene-co-N-(3-thiopheneylcarbonyl)iminoethylene];[1, 1];generic;N-acetyliminoethylene;N-3-thiopheneylcarbonyliminoethylene;C=C=NC(C)=O;C=C=NC(=O)c1ccsc1;N,N-dimethylformamide;CN(C)C=O;0
+Poly[N-(acetyl)iminoethylene-co-N-(3-thiopheneylcarbonyl)iminoethylene];[1, 1];generic;N-acetyliminoethylene;N-3-thiopheneylcarbonyliminoethylene;C=C=NC(C)=O;C=C=NC(=O)c1ccsc1;dimethyl sulfoxide;CS(C)=O;0
+Poly[N-(acetyl)iminoethylene-co-N-(3-thiopheneylcarbonyl)iminoethylene];[1, 1];generic;N-acetyliminoethylene;N-3-thiopheneylcarbonyliminoethylene;C=C=NC(C)=O;C=C=NC(=O)c1ccsc1;tetrahydrofuran;C1CCOC1;0
+Poly(maleic anhydride-alt-2-propenylisocyanate);[1, 1];alternating;maleic anhydride;2-propenylisocyanate;O=C1C=CC(=O)O1;C=CCN=C=O;benzene;c1ccccc1;0
+Poly(maleic anhydride-alt-methyl vinyl ether);[1, 1];alternating;maleic anhydride;methyl vinyl ether;O=C1C=CC(=O)O1;C=COC;carbon tetrachloride;ClC(Cl)(Cl)Cl;0
+Poly(maleic anhydride-alt-methyl vinyl ether);[1, 1];alternating;maleic anhydride;methyl vinyl ether;O=C1C=CC(=O)O1;C=COC;diethyl ether;CCOCC;0
+Poly(maleic anhydride-alt-methyl vinyl ether);[1, 1];alternating;maleic anhydride;methyl vinyl ether;O=C1C=CC(=O)O1;C=COC;hexane;CCCCCC;0
+Poly(maleic anhydride-alt-1-octadecene);[1, 1];alternating;maleic anhydride;1-octadecene;O=C1C=CC(=O)O1;C=CCCCCCCCCCCCCCCCC;ethanol;CCO;0
+Poly(2,5-thiophenediyl-co-3-undecyl-2,5-thiophenediyl);[1, 1];generic;2,5-thiophenediyl;3-undecyl-2,5-thiophenediyl;c1ccsc1;CCCCCCCCCCCc1ccsc1;methanol;CO;0
+Poly(2,5-thiophenediyl-co-dimethylsilylene);[3, 1];generic;2,5-thiophenediyl;dimethylsilylene;c1ccsc1;C[Si]C;methanol;CO;0
+Poly(2,5-thiophenediyl-co-dimethylsilylene);[2, 3];generic;2,5-thiophenediyl;dimethylsilylene;c1ccsc1;C[Si]C;methanol;CO;0
+Poly(2-ethyl-2-oxazoline)-b-poly(lactic acid);[3, 2];block;2-ethyl-2-oxazoline;lactic acid;CCC1=NCCO1;CC(O)C(=O)O;hexane;CCCCCC;0
+Poly(2-ethyl-2-oxazoline)-b-poly(lactic acid);[4, 2];block;2-ethyl-2-oxazoline;lactic acid;CCC1=NCCO1;CC(O)C(=O)O;hexane;CCCCCC;0
+Poly(3-hydroxybutyric acid)-b-poly(e-caprolactone);[3, 5];block;3-hydroxybutyric acid;e-caprolactone;CC(O)CC(=O)O;O=C1CCCCCO1;methanol;CO;0
+Poly(3-hydroxybutyric acid)-b-poly(e-caprolactone);[1, 2];block;3-hydroxybutyric acid;e-caprolactone;CC(O)CC(=O)O;O=C1CCCCCO1;methanol;CO;0
+Polyisobutylene-b-poly(a-methylstyrene);[9, 1];block;isobutylene;a-methylstyrene;C=C(C)C;C=C(C)c1ccccc1;methanol;CO;0
+Polystyrene-b-poly(tert-butyl methacrylate);[2, 3];block;styrene;tert-butyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OC(C)(C)C;hexane;CCCCCC;0
+Polystyrene-b-poly(tert-butyl methacrylate);[1, 4];block;styrene;tert-butyl methacrylate;C=Cc1ccccc1;C=C(C)C(=O)OC(C)(C)C;hexane;CCCCCC;0
+Polystyrene-b-poly(dimethylsiloxane);[1, 1];block;styrene;dimethylsiloxane;C=Cc1ccccc1;C[SiH](C)O[SiH3];methanol;CO;0
+Polystyrene-b-poly(dimethylsiloxane);[1, 9];block;styrene;dimethylsiloxane;C=Cc1ccccc1;C[SiH](C)O[SiH3];Water;O;0
+Polystyrene-b-poly(dimethylsiloxane);[3, 7];block;styrene;dimethylsiloxane;C=Cc1ccccc1;C[SiH](C)O[SiH3];Water;O;0
+Polystyrene-b-poly(vinylpyridine);[1, 1];block;styrene;vinylpyridine;C=Cc1ccccc1;C=Cc1ccccn1;hexane;CCCCCC;0
+Polypropylene-b-poly(methacrylic acid);[2, 1];block;propylene;methacrylic acid;C=CC;C=C(C)C(=O)O;methanol;CO;0
